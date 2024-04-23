@@ -1,0 +1,5 @@
+.DS_Store
+starter/.DS_Store
+starter/.ipynb_checkpoints/
+starter/__pycache__/
+__pycache__
